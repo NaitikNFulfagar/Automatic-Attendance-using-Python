@@ -1,10 +1,10 @@
 import cv2 #READ FROM CAMERA
 import numpy as np
-import pyttsx3
-from pyzbar.pyzbar import decode
+import pyttsx3 #AUDIO PLAY OF PRESENTY
+from pyzbar.pyzbar import decode #QRCODEDECODE
 from datetime import datetime
 import time
-import openpyxl
+import openpyxl   #EXCEL EXPORT
 from openpyxl import load_workbook
 import os
 
