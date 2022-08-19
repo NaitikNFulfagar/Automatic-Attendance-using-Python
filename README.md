@@ -1,5 +1,6 @@
 # Automatic Attendance Using Python
-===========================================================
+![auto](https://user-images.githubusercontent.com/97455378/185536875-f25e9014-904f-401a-859a-b43afa5cbb4b.jpg)
+===================================================
 
 HERE WE ARE WITH SIMPLIED WAY OF TAKING ATTENDANCE USING PYTHON
 
