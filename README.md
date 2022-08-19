@@ -9,7 +9,9 @@ SCAN QRCODE LEADS TO MARK ATTENDANCE
 
 PLZ REFER PROJECT REPORT 
 
-THE OUTPUT REPORT IS ALSO SHOWN
+THE OUTPUT REPORT IS IN EXCEL 
+![image](https://user-images.githubusercontent.com/97455378/185534837-8695c8fe-e098-47d4-a9fc-b5c09b4bd007.png)
+
 
 # Used Python Module:
 
@@ -33,8 +35,9 @@ pyttsx3 is a text-to-speech conversion library in Python
 5.	Openpyxl :
 
 Openpyxl is a Python library to read/write Excel xlsx/xlsm/xltx/xltm files. 
-
-
+--------------------------------
+#Caution
+Kindly Install All Modules
 
 
 
