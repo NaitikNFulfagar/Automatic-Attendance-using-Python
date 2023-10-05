@@ -1,4 +1,4 @@
-import cv2 #READ FROM CAMERAa
+import cv2 #READ FROM CAMERA
 import numpy as np
 import pyttsx3 #AUDIO PLAY OF PRESENTY
 from pyzbar.pyzbar import decode #QRCODEDECODE
